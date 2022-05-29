@@ -4,14 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
+Hola aqui dejo capturas y un video de demostracion.
 
-Capturas             |  ANDROID
+https://wigimusic.s3.amazonaws.com/singular.mp4
+
+
+Capturas             |  Capturas
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/46451218/170886766-8449b700-d17a-4083-a091-7d3a35b986e5.png)  |  ![](https://user-images.githubusercontent.com/46451218/170886781-b3170e81-5c85-4f95-ae54-6b3176718114.png)
-
-![](https://user-images.githubusercontent.com/46451218/170886791-91a728a9-d346-40dc-b2d3-17678ce25649.png)  |  ![](https://user-images.githubusercontent.com/46451218/170886805-bcb597df-176b-49c6-bb0f-d1edc71d871c.png)
-
-
-![](https://user-images.githubusercontent.com/46451218/170886828-d711777e-9ae5-40e5-9129-e7c5c1c668b0.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
-
-
+![](https://user-images.githubusercontent.com/46451218/170887018-4d54feac-7467-474d-95c0-7832000044fd.png)  |  ![Screenshot_1653850058](https://user-images.githubusercontent.com/46451218/170887023-e8c73f35-78c1-4216-b6c0-efbbb06c7e62.png)
+![Screenshot_1653850061](https://user-images.githubusercontent.com/46451218/170887048-be575027-15df-47a0-a5e9-35e268b78f6d.png) | ![Screenshot_1653850076](https://user-images.githubusercontent.com/46451218/170887054-97e5f259-e1d2-4032-8d96-e33c1cad1f94.png)
+![Screenshot_1653850086](https://user-images.githubusercontent.com/46451218/170887061-efff6526-1356-4836-a251-a2f46b98dd74.png) | ![Screenshot_1653850105](https://user-images.githubusercontent.com/46451218/170887069-5ef3c909-fff7-489d-b98f-fbc70632179e.png)
